@@ -1,0 +1,150 @@
+{
+  "name": "biometric-attendance",
+  "version": "0.1.0",
+  "description": "AI‑powered biometric attendance and payroll automation prototype",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["attendance", "payroll", "biometric", "nodejs", "mongodb", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "moment": "^2.30.1",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
+  "name": "biometric-attendance",
+  "version": "0.1.0",
+  "description": "AI‑powered biometric attendance and payroll automation prototype",
+  "main": "src/index.js",
+  "scripts": {
+  "name": "biometric-attendance",
+  "version": "0.1.0",
+  "description": "AI‑powered biometric attendance and payroll automation prototype",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["attendance", "payroll", "biometric", "nodejs", "mongodb", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "moment": "^2.30.1",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["attendance", "payroll", "biometric", "nodejs", "mongodb", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  "name": "biometric-attendance",
+  "version": "0.1.0",
+  "description": "AI‑powered biometric attendance and payroll automation prototype",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["attendance", "payroll", "biometric", "nodejs", "mongodb", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "moment": "^2.30.1",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.13.1"
+  }
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+  "name": "biometric-attendance",
+  "version": "0.1.0",
+  "description": "AI‑powered biometric attendance and payroll automation prototype",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["attendance", "payroll", "biometric", "nodejs", "mongodb", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "moment": "^2.30.1",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
+    "nodemon": "^3.1.4",
+    "moment": "^2.30.1"
+  }
+}

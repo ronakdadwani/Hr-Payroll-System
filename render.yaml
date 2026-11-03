@@ -1,0 +1,27 @@
+# Render Blueprint for Zero-Cost Free-Tier Deployment
+services:
+  # Backend API service
+  - type: web
+    name: biometric-payroll-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DEFAULT_SHIFT_HOURS
+        value: 8
+      - key: TIMEZONE
+        value: UTC
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_PRO_PRICE_ID
+        sync: false
